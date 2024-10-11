@@ -1,0 +1,14 @@
+C:\Users\JesusIsraelGutierrez\source\repos\LeerCsv\LeerCsv\bin\Debug\net8.0\LeerCsv.exe
+C:\Users\JesusIsraelGutierrez\source\repos\LeerCsv\LeerCsv\bin\Debug\net8.0\LeerCsv.deps.json
+C:\Users\JesusIsraelGutierrez\source\repos\LeerCsv\LeerCsv\bin\Debug\net8.0\LeerCsv.runtimeconfig.json
+C:\Users\JesusIsraelGutierrez\source\repos\LeerCsv\LeerCsv\bin\Debug\net8.0\LeerCsv.dll
+C:\Users\JesusIsraelGutierrez\source\repos\LeerCsv\LeerCsv\bin\Debug\net8.0\LeerCsv.pdb
+C:\Users\JesusIsraelGutierrez\source\repos\LeerCsv\LeerCsv\obj\Debug\net8.0\LeerCsv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JesusIsraelGutierrez\source\repos\LeerCsv\LeerCsv\obj\Debug\net8.0\LeerCsv.AssemblyInfoInputs.cache
+C:\Users\JesusIsraelGutierrez\source\repos\LeerCsv\LeerCsv\obj\Debug\net8.0\LeerCsv.AssemblyInfo.cs
+C:\Users\JesusIsraelGutierrez\source\repos\LeerCsv\LeerCsv\obj\Debug\net8.0\LeerCsv.csproj.CoreCompileInputs.cache
+C:\Users\JesusIsraelGutierrez\source\repos\LeerCsv\LeerCsv\obj\Debug\net8.0\LeerCsv.dll
+C:\Users\JesusIsraelGutierrez\source\repos\LeerCsv\LeerCsv\obj\Debug\net8.0\refint\LeerCsv.dll
+C:\Users\JesusIsraelGutierrez\source\repos\LeerCsv\LeerCsv\obj\Debug\net8.0\LeerCsv.pdb
+C:\Users\JesusIsraelGutierrez\source\repos\LeerCsv\LeerCsv\obj\Debug\net8.0\LeerCsv.genruntimeconfig.cache
+C:\Users\JesusIsraelGutierrez\source\repos\LeerCsv\LeerCsv\obj\Debug\net8.0\ref\LeerCsv.dll
